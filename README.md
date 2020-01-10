@@ -1,2 +1,2 @@
-# cs-js
-CodeWars for JavaScript
+# Solving CodeWars for JavaScript
+https://www.codewars.com/kata
